@@ -1,0 +1,75 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+.title{
+    display: flex;    
+    justify-content: right;
+    font-size: large;
+}
+.one{
+    margin: 25px;
+}
+.two{
+    margin: 25px;
+}
+img{
+    height:300px;
+    }
+.Image{
+    text-align: center;
+}
+ 
+.form{
+    display: flex;
+    justify-content: center;
+   
+}
+.Inputfromuser{
+    text-align: center;
+}
+.normalsearch{
+    display: flex;
+    float: left;
+    margin-top: 10px;
+    height: 40px;
+    width: 100px;
+    margin-left: 15%;
+    
+}
+.directsearch{
+    display: flex;
+    float: right;
+    margin-top: 10px;
+    height: 40px;
+    width: 100px;
+    margin-right: 20%;
+}
+.input1{
+    font-size: 25px;
+     height: 50px;
+    width: 370px;
+    border-radius: 12px;
+    padding-left: 5%;
+    color: blue;
+}
+.Image_search{
+    margin-top: 10px;
+     height: 40px;
+    width: 150px;
+    margin-left: 30%;
+}
+.hide{
+    text-decoration: h;
+}
+h1{
+    color: red;
+}
+p{
+    font-size: 30px;
+}
+p input{
+    display: inline;
+    float: right;
+}
+ 
